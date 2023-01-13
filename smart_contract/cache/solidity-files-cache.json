@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\priyalakshmi\\Desktop\\Loyalty Exchange System\\smart_contract\\contracts\\Loyalty.sol": {
+      "lastModificationDate": 1673362178169,
+      "contentHash": "3b9949814b4fd1069fd67665a1e3a6b5",
+      "sourceName": "contracts/Loyalty.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Loyalty"
+      ]
+    }
+  }
+}
